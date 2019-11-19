@@ -9,3 +9,11 @@
 * Indication of Parking slot being reserved or not is given by LEDs.
 * Rotation of Motors lead to movement of a mechanical structure with platform that reaches to appropriate parking location as per slot       selected by the user.
 
+# A Complete Structure
+<img src="https://user-images.githubusercontent.com/51187747/69154822-ce7a8000-0b08-11ea-9192-e4c5c9f24f7d.jpg" widdth="630" height="630">
+
+* X and Y motors
+* X for front and back movement
+* Y for top down movement
+
+
