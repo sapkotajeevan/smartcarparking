@@ -1,4 +1,4 @@
-# smartcarparking
+# Smart Car Parking Project
 * Autonomous Car Parking Mechanism.
 * Uses two arduinos: Arduino Mega(Master) and Arduino UNO(Slave).
 * I2C between Arduino Uno and Mega.
