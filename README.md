@@ -20,6 +20,6 @@ A Robust Car Parking System with an Autonomous Mechanical Structure that does a 
 * Jyoti KC (Project Member)
 
 # LICENSE
-
+[License Terms](https://github.com/jinmax100/smartcarparking/blob/master/LICENSE)
 
 
