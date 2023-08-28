@@ -13,7 +13,7 @@ A Robust Car Parking System with an Autonomous Mechanical Structure that does a 
 # Mechanical Structure and User Interface Panel
 <img src="https://user-images.githubusercontent.com/51187747/69154822-ce7a8000-0b08-11ea-9192-e4c5c9f24f7d.jpg" widdth="630" height="630">
 
-# AUTHORS
+# Authors
 * [Jeevan Sapkota](https://github.com/jinmax100) (Project Lead)
 * Dipesh Dhamala (Project Memmber)
 * Kailash Shrestha (Project Member)
